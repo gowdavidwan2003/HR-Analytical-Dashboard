@@ -14,13 +14,13 @@ This repository contains a Power BI HR Dashboard designed to help HR departments
 Here are some screenshots of the HR Dashboard:
 
 ### 1. Home Page
-![Overview Page](screenshots/home.png)
+![Overview Page](home.png)
 
 ### 2. Action page
-![Performance Metrics](screenshots/action.png)
+![Performance Metrics](action.png)
 
 ### 3. Detail page
-![Turnover Analysis](screenshots/detail.png)
+![Turnover Analysis](detail.png)
 
 ## How to Use
 1. **Clone the repository**: 
