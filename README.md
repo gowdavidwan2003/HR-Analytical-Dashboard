@@ -3,6 +3,12 @@
 ## Overview
 This repository contains a Power BI HR Dashboard designed to help HR departments monitor and manage key metrics related to employee performance, diversity, turnover, and other important HR functions. The dashboard provides interactive visuals and data insights to support data-driven decision making.
 
+## Access the Dashboard
+
+You can access the HR Analytical Dashboard via the following link:
+
+[HR Analytical Dashboard](https://gowdavidwan2003.github.io/HR-Analytical-Dashboard/)
+
 ## Features
 - **Employee Performance**: Track and analyze individual and team performance metrics.
 - **Diversity and Inclusion**: Monitor diversity statistics to ensure a balanced and inclusive workplace.
